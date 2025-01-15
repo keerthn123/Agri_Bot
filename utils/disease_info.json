@@ -1,0 +1,97 @@
+{
+    "Groundnut_early_leaf_spot": {
+        "description": "Caused by Cercospora arachidicola, results in circular brown spots on leaves, reducing photosynthesis.",
+        "pesticide": "Chlorothalonil",
+        "usage": "Mix 2 g/L and spray on leaves every 10 days."
+    },
+    "Groundnut_early_rust": {
+        "description": "A fungal disease caused by Puccinia arachidis, resulting in reddish-brown pustules on leaves.",
+        "pesticide": "Propiconazole",
+        "usage": "Spray 1 mL/L on affected plants weekly."
+    },
+    "Groundnut_healthy_leaf": {
+        "description": "No disease detected. The plant is healthy and does not require treatment.",
+        "pesticide": "None",
+        "usage": "Maintain good agricultural practices."
+    },
+    "Groundnut_late_leaf_spot": {
+        "description": "Caused by Phaeoisariopsis personata, leads to dark brown circular spots on older leaves.",
+        "pesticide": "Mancozeb",
+        "usage": "Apply 2.5 g/L and spray at 15-day intervals."
+    },
+    "Groundnut_nutrition_deficiency": {
+        "description": "Lack of essential nutrients causing yellowing, stunted growth, and poor leaf quality.",
+        "pesticide": "Micronutrient Fertilizer",
+        "usage": "Apply foliar sprays containing Zinc and Iron chelates at recommended doses."
+    },
+    "Groundnut_rust": {
+        "description": "A fungal disease caused by Puccinia arachidis, causing yellow pustules that later turn black.",
+        "pesticide": "Tebuconazole",
+        "usage": "Spray 2 mL/L at the first sign of infection."
+    },
+    "Tomato___Bacterial_spot": {
+        "description": "Caused by Xanthomonas campestris, results in yellow leaf spots and lesions on fruit.",
+        "pesticide": "Copper Hydroxide",
+        "usage": "Spray 3 g/L on infected plants weekly."
+    },
+    "Tomato___Early_blight": {
+        "description": "Caused by Alternaria solani, results in concentric dark spots on leaves, leading to defoliation.",
+        "pesticide": "Difenoconazole",
+        "usage": "Apply 1.5 mL/L every 7-10 days."
+    },
+    "Tomato___Late_blight": {
+        "description": "Caused by Phytophthora infestans, resulting in water-soaked lesions on leaves and fruits.",
+        "pesticide": "Metalaxyl + Mancozeb",
+        "usage": "Spray 2 g/L at 7-14 day intervals."
+    },
+    "Tomato___Leaf_Mold": {
+        "description": "Caused by Passalora fulva, leads to yellowing and mold on the underside of leaves.",
+        "pesticide": "Chlorothalonil",
+        "usage": "Spray 2 g/L on infected plants every 7 days."
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "description": "Caused by Septoria lycopersici, characterized by small circular spots with gray centers.",
+        "pesticide": "Copper Oxychloride",
+        "usage": "Spray 3 g/L every 10 days."
+    },
+    "Tomato___Spider_mites_Two-spotted_spider_mite": {
+        "description": "Caused by spider mites feeding on leaves, leading to webbing and yellow spots.",
+        "pesticide": "Abamectin",
+        "usage": "Apply 1 mL/L as a foliar spray every 7 days."
+    },
+    "Tomato___Target_Spot": {
+        "description": "Caused by Corynespora cassiicola, resulting in dark spots with concentric rings on leaves.",
+        "pesticide": "Azoxystrobin",
+        "usage": "Spray 1 mL/L on infected areas weekly."
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "description": "A viral disease spread by whiteflies, causing leaf yellowing and curling.",
+        "pesticide": "Imidacloprid",
+        "usage": "Apply 2 mL/L to control whitefly population."
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "description": "A viral disease causing mosaic patterns on leaves and stunted growth.",
+        "pesticide": "No chemical treatment. Remove infected plants.",
+        "usage": "Use virus-resistant seeds and avoid touching healthy plants after infected ones."
+    },
+    "Tomato___healthy": {
+        "description": "No disease detected. The plant is healthy and does not require treatment.",
+        "pesticide": "None",
+        "usage": "Maintain good agricultural practices."
+    },
+    "potato_early": {
+        "description": "Caused by Alternaria solani, results in dark spots with concentric rings on leaves.",
+        "pesticide": "Mancozeb",
+        "usage": "Apply 2 g/L every 7-10 days."
+    },
+    "potato_healthy": {
+        "description": "No disease detected. The plant is healthy and does not require treatment.",
+        "pesticide": "None",
+        "usage": "Maintain good agricultural practices."
+    },
+    "potato_late": {
+        "description": "Caused by Phytophthora infestans, leads to water-soaked lesions on leaves and tubers.",
+        "pesticide": "Metalaxyl",
+        "usage": "Spray 2 g/L every 10-14 days."
+    }
+}
